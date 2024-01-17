@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @CandyKutta
+- 👋 Hi, I’m Hari
 - 👀 I’m interested in Data science and Machine learning 
 - 🌱 I’m currently learning Python and Data Science
 - 💞️ I’m looking to collaborate on Machine learning and Data science projects 
