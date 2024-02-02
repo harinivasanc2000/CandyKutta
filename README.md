@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Hari
 - 👀 I’m interested in Data science and Machine learning 
-- 🌱 I’m currently learning Python and Data Science
+- 🌱 Fluent in Python, SQL and Excel
 - 💞️ I’m looking to collaborate on Machine learning and Data science projects 
 - 📫 How to reach me at Discord -Candy#1246, email- Harinivasan10@gmail.com
 
